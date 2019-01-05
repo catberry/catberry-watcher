@@ -1,0 +1,51 @@
+{
+	"name": "catberry-watcher",
+	"version": "1.0.0",
+	"author": {
+		"name": "Maksim Chetverikov",
+		"email": "ma.chetverikov@gmail.com"
+	},
+	"description": "Watcher for catberry",
+	"homepage": "https://github.com/catberry/catberry-watcher",
+	"keywords": [
+		"catberry",
+		"watch"
+	],
+	"bugs": {
+		"url": "https://github.com/catberry/catberry-watcher/issues",
+		"email": "ma.chetverikov@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/catberry/catberry-watcher.git"
+	},
+	"contributors": [
+		{
+			"name": "Maxim Chetverikov",
+			"email": "ma.chetverikov@gmail.com"
+		}
+	],
+	"main": "./index",
+	"dependencies": {
+		"chokidar": "^2.0.4"
+	},
+	"devDependencies": {
+		"catberry": "^9.0.0",
+		"catberry-locator": "^2.2.1",
+		"codecov": "^3.1.0",
+		"eslint": "^5.12.0",
+		"istanbul": "~0.4.5",
+		"mkdirp": "^0.5.1",
+		"mocha": "^5.2.0",
+		"ncp": "^2.0.0",
+		"rimraf": "^2.6.3",
+		"uuid": "^3.3.2"
+	},
+	"engines": {
+		"node": ">=6.10"
+	},
+	"scripts": {
+		"test": "make"
+	},
+	"license": "MIT"
+}
