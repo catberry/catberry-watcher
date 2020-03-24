@@ -14,7 +14,6 @@
 * [Catberry Documentation](https://github.com/catberry/catberry/blob/9.0.0/docs/index.md)
 * [Get Started Guide](https://github.com/catberry/catberry/blob/9.0.0/docs/index.md#get-started)
 * [Plugins and Tools](https://github.com/catberry/catberry/blob/9.0.0/docs/index.md#plugins-and-tools)
-* [Catberry's homepage](http://catberry.org) and its [source code](https://github.com/catberry/catberry-homepage)
 * [Todo application](https://github.com/catberry/catberry-todomvc)
 * [Example application](https://github.com/catberry/catberry-example)
 
